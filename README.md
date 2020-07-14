@@ -1,18 +1,11 @@
-# Client Side Auth
+# React-Authentication-With-Token
 
 ## 1. First, initialize the project and install dependencies
 
 
 ## 2. Put all the route configuration to the index.js, which centralizes all our core setup logics for our application
 
-Whenever the <App /> component is rendered, the <Route /> component will be passed to the <App /> as the prop, called children. And the <App /> component doesn't have to have the navigation logic
-
-
-
-
 ## 3. Wire up Redux for Redux Form
-
-Add reducers 
 
 ## 4. Setup Redux Form and wire up to Sign-Up form
 
